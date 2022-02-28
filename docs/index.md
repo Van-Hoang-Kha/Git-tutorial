@@ -1,10 +1,10 @@
 Git and Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===============
-<hr>
+<!-- <hr>
 <p align="center">
     <img alt="Git" src="././Img/git-logo.png" height="190" width="455">
 </p>
-
+ -->
 Git Cheat Sheet
 ===============
 ### Index
@@ -724,7 +724,7 @@ $ git flow hotfix start VERSION [BASENAME]
 git flow hotfix finish VERSION
 ```
 <hr>
-
+<!-- 
 ### Commands
 <p align="center">
     <img alt="Git" src="./Img/git-flow-commands.png" height="270" width="460">
@@ -736,5 +736,5 @@ git flow hotfix finish VERSION
 <p align="center">
     <img alt="Git" src="./Img/git-flow-commands-without-flow.png">
 </p>
-<hr>
+<hr> -->
 
